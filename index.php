@@ -1,0 +1,2 @@
+<?php
+    # nem rola.
